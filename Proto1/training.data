@@ -34,12 +34,27 @@ call-for-help:
 	i need to lie down
 	i do not feel well
 	i need help
+	i need my medication
+	i need an ambulance
+	i am having chest pain
+	fire
+	i had an accident
+	i have broken my leg
 
 activate:
 	turn on lights
 	turn on lamp
 	i want to listen to the radio
 	what time is it
+	who are my emergency contacts
+	what is the weather tomorrow
+	how much battery life do I have
+	turn on my flashlight
+	turn on silent mode
+	turn on vibration
+	siri
+	siri when do i need to go to the doctor	
+	how far is the nearest pharmacy
 
 explicit-warning:
 	so so
@@ -55,6 +70,13 @@ explicit-warning:
 	my phone is broken
 	go away
 	my body hurts
+	getting harder to breathe
+	i am feeling lightheaded
+	i cannot find my medication
+	i need a hand
+	i need a second to catch up
+	my car has broke
+	call my son
 
 do-nothing:
 	i am fine
@@ -67,6 +89,13 @@ do-nothing:
 	hello
 	i do not need help
 	no worries
+	what time is it
+	nice day today
+	i am sore
+	must be getting old
+	where is my phone
+	i remembered to take my pills today
+	i did not mean to do that
 
 ngrams#
 	i am
